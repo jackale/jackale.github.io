@@ -1,0 +1,6 @@
+baseURL = "https://jackale.github.io/"
+disableKinds = ["RSS", "sitemap"]
+languageCode = "ja"
+title = "jackale"
+[taxonomies]
+tag = "tags"
