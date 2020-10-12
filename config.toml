@@ -1,6 +1,8 @@
 baseURL = "https://jackale.github.io/"
 disableKinds = ["RSS", "sitemap"]
 languageCode = "ja"
+publishDir = "docs"
+theme = "ananke"
 title = "jackale"
 [taxonomies]
 tag = "tags"
