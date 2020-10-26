@@ -8,12 +8,15 @@
     <language>ja</language>
     <lastBuildDate>Mon, 26 Oct 2020 00:08:40 +0900</lastBuildDate><atom:link href="https://jackale.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>個人サイトを作ってみた</title>
       <link>https://jackale.github.io/article/first-post/</link>
       <pubDate>Mon, 26 Oct 2020 00:08:40 +0900</pubDate>
       
       <guid>https://jackale.github.io/article/first-post/</guid>
-      <description>This is my first post.</description>
+      <description>個人サイトを作ってみた。
+アウトプットをもっとしていかないとなーという思いがあり、アウトプットの場としてブログ兼個人サイトとして用意してみた。
+元々はてなブログを使っていたところを乗り換えたので、作るにあたって色々考えはあったけど、長らくアウトプットをサボっている内に書き出す文章力が皆無になってしまった。
+まだ、最低限作ったというだけでデフォルトのテーマから何もいじってないし、追々カスタマイズしながらいつか記事としてちゃんとまとめたいなーといったところ。</description>
     </item>
     
   </channel>
