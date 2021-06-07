@@ -6,7 +6,22 @@
     <description>Recent content in Articles on jackale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2020 00:08:40 +0900</lastBuildDate><atom:link href="https://jackale.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 00:08:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://jackale.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログをNext.jsで再実装したい</title>
+      <link>https://jackale.github.io/article/second-post/</link>
+      <pubDate>Mon, 07 Jun 2021 00:08:40 +0900</pubDate>
+      
+      <guid>https://jackale.github.io/article/second-post/</guid>
+      <description>長らく更新をしてなかった やる気がなかったのも大きな要因だがデザインを整えようと思ったときにHugoの仕様を覚えることに気が進まなかった どうせ時間かけるなら将来的にも役立って欲しかったので手軽感はないがNext.jsで車輪の再開発が良いんじゃないかという気になってきた
+Hugo自体、ビルド時間が爆速なのは魅力的だけどまあヘビーライターでもないしええやろという気持ち
+まずはNext.jsをチュートリアルするところから</description>
+    </item>
+    
     <item>
       <title>個人サイトを作ってみた</title>
       <link>https://jackale.github.io/article/first-post/</link>

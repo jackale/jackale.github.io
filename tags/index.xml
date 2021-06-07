@@ -5,6 +5,10 @@
     <link>https://jackale.github.io/tags/</link>
     <description>Recent content in Tags on jackale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://jackale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    
+	<atom:link href="https://jackale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
